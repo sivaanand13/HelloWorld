@@ -12,7 +12,17 @@ The following **required** functionality is completed:
 
 * [x] Image and introductory message displayed on screen
 * [x] Button displayed on screen
-* [x] Toast with message appears when button is pressed 
+* [x] Toast with message appears when button is pressed
+* [ ] 
+## Video Walkthrough
+
+Here's a walkthrough of implemented features:
+
+<img src='https://github.com/sivaanand13/HelloWorld/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with ...  
+
+[ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
