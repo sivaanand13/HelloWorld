@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="siva_intro">Hello World! This is Siva Anand Sivakumr and I hope to learn a lot about Android development this semester!</string>
+    <string name="siva_intro">Hello World! This is Siva Anand Sivakumar and I hope to learn a lot about Android development this semester!</string>
     <string name="hello_button">Hello!</string>
 </resources>
